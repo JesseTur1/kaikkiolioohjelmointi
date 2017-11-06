@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\jessetur1\downloads\kaikkiolioohjelmointi-master\kaikkiolioohjelmointi-master\kauppa-ohjelma\kauppa-ohjelma\main.cpp(13): warning C4930: 'Kauppa lisaaTuote(void)': prototyped function not called (was a variable definition intended?)
+  Kauppa.cpp
+  Asiakastili.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Tuote.cpp
+  Kauppa-ohjelma.vcxproj -> C:\Users\JesseTur1\Downloads\kaikkiolioohjelmointi-master\kaikkiolioohjelmointi-master\Kauppa-ohjelma\x64\Debug\Kauppa-ohjelma.exe
+  Kauppa-ohjelma.vcxproj -> C:\Users\JesseTur1\Downloads\kaikkiolioohjelmointi-master\kaikkiolioohjelmointi-master\Kauppa-ohjelma\x64\Debug\Kauppa-ohjelma.pdb (Partial PDB)
